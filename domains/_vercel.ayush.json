@@ -4,8 +4,6 @@
     "email": "swayush.govindwar@gmail.com"
   },
   "records": {
-    "A": [
-      "216.198.79.1"
-    ]
+    "TXT": "VC-domain-verify=ayush.is-a.dev,ca5b800c7b095fa7cab2"
   }
 }
